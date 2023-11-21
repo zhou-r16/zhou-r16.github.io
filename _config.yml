@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ran Zhou(周冉)"
-  avatar           : "profile.png"
-bio: |
-  Ph.D Candidate
-  Department of Mechanical Engineering
-  Tsinghua University
-location: "Beijing, China"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=C4Zu0IYAAAAJ"
-  email            : "zhouran2000@gmail.com"
+  name: "Ran Zhou(周冉)"
+  avatar: "profile.png"
+  bio: |
+    Ph.D Candidate
+    Department of Mechanical Engineering
+    Tsinghua University
+  location: "Beijing, China"
+  employer: # If you have an employer, add it here, otherwise remove this line
+  pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow" - Uncomment if needed
+  googlescholar: "https://scholar.google.com/citations?user=C4Zu0IYAAAAJ"
+  email: "zhouran2000@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
