@@ -1,12 +1,28 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Homepage - Ran Zhou, Tsinghua University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      This is the front page of a website that is powered by the 
+      <a href="https://github.com/academicpages/academicpages.github.io">academicpages template</a> and hosted on GitHub pages. 
+      <a href="https://pages.github.com">GitHub pages</a> is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. 
+      This template was forked from the <a href="https://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes Jekyll Theme</a> created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. 
+      You can fork <a href="https://github.com/academicpages/academicpages.github.io">this repository</a> right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! 
+      An older version of this template powers my own personal website at <a href="http://stuartgeiger.com">stuartgeiger.com</a>, which uses <a href="https://github.com/staeiou/staeiou.github.io">this Github repository</a>.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/500x300.png" alt="Life Photo of Ran Zhou" style="max-width: 30%; height: auto;">
+  </div>
+</div>
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
