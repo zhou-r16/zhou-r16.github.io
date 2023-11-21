@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="width:100%;">
+<div style="width:50%;">
 　　<div style="float:right; clear: both;" align="center">
-　　　　<img src="images/500x300.jpg" width="50%" alt="" hspace="8"><br /> 图片标题
+　　　　<img src="images/500x300.png" width="30%" alt="Life" hspace="8"><br /> 图片标题
 　　</div>
 CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局
 </div>
