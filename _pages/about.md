@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<div class="row">   
-    <div class="column" style="float:left;width:60%"> 
-     	   <u>Consider the familiar child’s game of tic-tac-toe.</u> Because a skilled player can play so as never to lose, let us assume that we are playing against an <u>imperfect player</u>, one whose play is sometimes incorrect and allows us to win. For the moment, in fact, let us consider draws and losses to be equally bad for us. How might we <u>construct a player</u> that will <u>find the imperfections in its opponent’s play and learn to maximize its chances of winning</u>?
-    </div>
-    <div class="column" style="float:right;width:40%">    
-        <img src="images/500x300.png" alt="Life photo of Ran Zhou">  
-    </div> 
+<div style="width:100%;">
+　　<div style="float:right; clear: both;" align="center">
+　　　　<img src="images/500x300.jpg" width="50%" alt="" hspace="8"><br /> 图片标题
+　　</div>
+CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局
 </div>
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
