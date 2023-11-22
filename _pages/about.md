@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="width:100%;">
-  <img src="/images/Ran-Life.jpg" align="right" width="45%" alt="Life Photo of Ran" hspace="8">
+  <img src="/images/Ran-Life.jpg" align="right" width="35%" alt="Life Photo of Ran" hspace="20" vspace="10">
   This is a brief introduction of Ran Zhou.
 </p>
 
