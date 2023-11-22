@@ -20,6 +20,8 @@ Contact:
 [zhouran2000@gmail.com](mailto:zhouran2000@gmail.com)  
 [zhour20@mails.tsinghua.edu.cn](mailto:zhour20@mails.tsinghua.edu.cn)
 
+------
+
 Education
 ======
 <div class="education-entry">
@@ -51,13 +53,17 @@ Education
   <span style="float: right;">Beijing, China</span><br>
   Minor in Computer Application
   <span style="float: right; clear: right;"><em>Sep. 2017 - Jun. 2020</em></span><br>
-</div><br>
+</div>
+
+------
 
 Research Interests
 ======
 - Precision/ultraprecision motion control
 - Predictive control
 - Neural network control
+
+------
 
 Publications
 =====
@@ -81,6 +87,8 @@ Publications
 
 1. **R. Zhou**, C. Hu, Y. Zhu, and M. Zhang, "Model Prediction based Online Feedforward Compensation Control of Maglev Planar Motor with Comparative Investigation," in <u>*IEEE Int. Conf. Mechatron. (ICM)*</u>, Kashiwa, Japan, Mar. 2021, pp. 1-6. (EI, **Oral Report**)
 
+------
+
 Honors and Awards
 =====
 - National Scholarship for Postgraduates (Top 2%) - Dec. 2022
@@ -95,6 +103,8 @@ Honors and Awards
 - Tsinghua Jiang Nanxiang Scholarship - Dec. 2018
 - Tsinghua Comprehensive Excellence Award (Top 7%) - Dec. 2018
 - Tsinghua Comprehensive Excellence Award (Top 7%) - Dec. 2017
+
+------
 
 Academic Service
 =====
