@@ -10,7 +10,7 @@ redirect_from:
 
 <p style="width:100%;">
   <img src="/images/Ran-Life.jpg" align="right" width="35%" alt="Life Photo of Ran" hspace="20" vspace="10">
-  This is a brief introduction of Ran Zhou.
+  Hello, I'm Ran Zhou. Since 2020, I have been pursuing a Ph.D. in Mechanical Engineering at the Institute of Mechatronic Engineering, Department of Mechanical Engineering, Tsinghua University, under the supervision of [Prof. Chuxiong Hu](https://www.me.tsinghua.edu.cn/en/info/1049/1315.htm). Currently, I am also a visiting student researcher at the [Mechanical Systems Control Lab](https://msc.berkeley.edu/) in the Department of Mechanical Engineering at UC Berkeley, mentored by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). Prior to my doctoral studies, I obtained a B.E. in Mechanical Engineering from Tsinghua University in 2020.
 </p>
 
 
