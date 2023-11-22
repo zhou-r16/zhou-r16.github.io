@@ -16,73 +16,88 @@ Hello, I'm Ran Zhou. Since 2020, I have been pursuing a Ph.D. in Mechanical Engi
 
 My research primarily focuses on precision/ultraprecision motion control, including intelligent feedforward control, predictive control, and neural network control with applications to practical precision/ultraprecision mechatronic systems.
 
-Contact:
-[zhouran2000@gmail.com](mailto:zhouran2000@gmail.com)
+Contact:  
+[zhouran2000@gmail.com](mailto:zhouran2000@gmail.com)  
 [zhour20@mails.tsinghua.edu.cn](mailto:zhour20@mails.tsinghua.edu.cn)
-
 
 Education
 ======
-
 <div class="education-entry">
   <strong>Department of Mechanical Engineering - Tsinghua University</strong>
   <span style="float: right;">Beijing, China</span><br>
+  Ph.D. in Mechanical Engineering
   <span style="float: right; clear: right;"><em>Aug. 2020 - expected Jun. 2025</em></span><br>
-  Ph.D. in Mechanical Engineering<br>
   Ph.D. Supervisor: Prof. Chuxiong Hu
-</div>
+</div><br>
 
 <div class="education-entry">
   <strong>Department of Mechanical Engineering - University of California, Berkeley</strong>
   <span style="float: right;">Berkeley, CA, USA</span><br>
+  Visiting Student Researcher in MSC Lab
   <span style="float: right; clear: right;"><em>Oct. 2023 - Dec. 2023</em></span><br>
-  Visiting Student Researcher in MSC Lab<br>
   Supervisor: Prof. Masayoshi Tomizuka
-</div>
+</div><br>
 
 <div class="education-entry">
   <strong>Department of Mechanical Engineering - Tsinghua University</strong>
   <span style="float: right;">Beijing, China</span><br>
-  <span style="float: right; clear: right;"><em>Aug. 2016 - Jun. 2020</em></span><br>
   Bachelor in Mechanical Engineering
-</div>
+  <span style="float: right; clear: right;"><em>Aug. 2016 - Jun. 2020</em></span><br>
+  GPA: 3.87/4.0 (1/109)
+</div><br>
 
 <div class="education-entry">
   <strong>Department of Computer Science and Engineering - Tsinghua University</strong>
   <span style="float: right;">Beijing, China</span><br>
-  <span style="float: right; clear: right;"><em>Sep. 2017 - Jun. 2020</em></span><br>
   Minor in Computer Application
-</div>
+  <span style="float: right; clear: right;"><em>Sep. 2017 - Jun. 2020</em></span><br>
+</div><br>
 
-
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Precision/ultraprecision motion control
+- Predictive control
+- Neural network control
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Publications
+=====
+1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," *IEEE Trans. Ind. Inform.*, 2023, DOI: 10.1109/TII.2023.3331075. (SCI/EI, **IF=12.3**)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. Z. Jin, **R. Zhou**, T. Ou, C. Hu, and Y. Zhu, "Enhanced Motion Control for Precision/Ultraprecision Motion System: An Advanced LARC Strategy with GRU Neural Network," in *The 2nd Int. Conf. Mech. Syst. Dynam. (ICMSD)*, Beijing, China, Sep. 2023. (EI)
 
-**Markdown generator**
+1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," *IEEE Trans. Ind. Inform.*, vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=12.3**, **ESI highly cited paper**)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+1. C. Hu, **R. Zhou**, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Framework for Precision Mechatronic Motion Control Systems," *IEEE/CAA J. Autom. Sinica*, vol. 9, no. 7, pp. 1218-1232, Jul. 2022. (SCI/EI, **IF=11.8**)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+1. **R. Zhou**, C. Hu, B. Hou, and Y. Zhu, "Comparative Study of Performance-Oriented Feedforward Compensation Strategies for Precision Mechatronic Motion Systems," *IEEE Access*, vol. 10, pp. 100812-100823, 2022. (SCI/EI, **IF=3.9**)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+1. Z. Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Real-Time Iterative Compensation Based Contouring Control Method for Polar Coordinate Motion Systems," *IEEE/ASME Trans. Mechatron.*, vol. 27, no. 5, pp. 3517-3526, Oct. 2022. (SCI/EI, **IF=6.4**)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. Z. Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Online Iterative Learning Compensation Method Based on Model Prediction for Trajectory Tracking Control Systems," *IEEE Trans. Ind. Inform.*, vol. 18, no. 1, pp. 415-425, Jan. 2022. (SCI/EI, **IF=12.3**)
+
+1. S. Wu, C. Hu, Z. Zhao, **R. Zhou**, and Y. Zhu, "A Novel Flux Estimator Using $\alpha$-$\beta$ Orthogonality Drift Elimination for High Performance Full-Speed-Range Sensorless Control," in *IEEE/ASME Int. Conf. Adv. Intell. Mechatron. (AIM)*, Sapporo, Japan, Jul. 2022, pp. 1315-1320. (EI)
+
+1. Z.Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Precision RIC Contouring Control Method for Polar Coordinate Motion Systems," in *IEEE Int. Conf. Real-Time Comput. Robot. (RCAR)*, Xining, China, Jul. 2021, pp. 744-749. (EI)
+
+1. **R. Zhou**, C. Hu, Y. Zhu, and M. Zhang, "Model Prediction based Online Feedforward Compensation Control of Maglev Planar Motor with Comparative Investigation," in *IEEE Int. Conf. Mechatron. (ICM)*, Kashiwa, Japan, Mar. 2021, pp. 1-6. (EI, **Oral Report**)
+
+Honors and Awards
+=====
+- National Scholarship for Postgraduates (Top 2%) - Dec. 2022
+- Second Prize in National College Mechanical Innovation Competetion - Oct. 2020
+- First Prize in Beijing College Mechanical Innovation Competetion - Sep. 2020
+- Tsinghua Future Scholar Scholarship - Aug. 2020
+- Tsinghua Outstanding Undergraduate Award (Top 2%) - Jun. 2020
+- Beijing Outstanding Undergraduate Award (Top 5%) - Jun. 2020
+- National Scholarship for Undergraduates (Top 2%) - Dec. 2019
+- Tsinghua Top Grade Scholarship for Undergraduates (**The highest student honor** with 10 winners per year in Tsinghua University) - Dec. 2019
+- Tsinghua Comprehensive Excellence Award (Top 7%) - Dec. 2019
+- Tsinghua Jiang Nanxiang Scholarship - Dec. 2018
+- Tsinghua Comprehensive Excellence Award (Top 7%) - Dec. 2018
+- Tsinghua Comprehensive Excellence Award (Top 7%) - Dec. 2017
+
+Academic Service
+=====
+- Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Industrial Informatics, IEEE Transactions on Industrial Electronics, IEEE/ASME Transactions on Mechatronics
+- Reviewer for Ocean Engineering
+- Reviewer for 2023 Modeling, Estimation and Control Conference (MECC 2023)
