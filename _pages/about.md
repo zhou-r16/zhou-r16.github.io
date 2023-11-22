@@ -61,25 +61,25 @@ Research Interests
 
 Publications
 =====
-1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," *IEEE Trans. Ind. Inform.*, 2023, DOI: 10.1109/TII.2023.3331075. (SCI/EI, **IF=12.3**)
+1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," <u>*IEEE Trans. Ind. Inform.*</u>, 2023, DOI: 10.1109/TII.2023.3331075. (SCI/EI, **IF=12.3**)
 
-1. Z. Jin, **R. Zhou**, T. Ou, C. Hu, and Y. Zhu, "Enhanced Motion Control for Precision/Ultraprecision Motion System: An Advanced LARC Strategy with GRU Neural Network," in *The 2nd Int. Conf. Mech. Syst. Dynam. (ICMSD)*, Beijing, China, Sep. 2023. (EI)
+1. Z. Jin, **R. Zhou**, T. Ou, C. Hu, and Y. Zhu, "Enhanced Motion Control for Precision/Ultraprecision Motion System: An Advanced LARC Strategy with GRU Neural Network," in <u>*The 2nd Int. Conf. Mech. Syst. Dynam. (ICMSD)*</u>, Beijing, China, Sep. 2023. (EI)
 
-1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," *IEEE Trans. Ind. Inform.*, vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=12.3**, **ESI highly cited paper**)
+1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," <u>*IEEE Trans. Ind. Inform.*</u>, vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=12.3**, **ESI highly cited paper**)
 
-1. C. Hu, **R. Zhou**, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Framework for Precision Mechatronic Motion Control Systems," *IEEE/CAA J. Autom. Sinica*, vol. 9, no. 7, pp. 1218-1232, Jul. 2022. (SCI/EI, **IF=11.8**)
+1. C. Hu, **R. Zhou**, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Framework for Precision Mechatronic Motion Control Systems," <u>*IEEE/CAA J. Autom. Sinica*</u>, vol. 9, no. 7, pp. 1218-1232, Jul. 2022. (SCI/EI, **IF=11.8**)
 
-1. **R. Zhou**, C. Hu, B. Hou, and Y. Zhu, "Comparative Study of Performance-Oriented Feedforward Compensation Strategies for Precision Mechatronic Motion Systems," *IEEE Access*, vol. 10, pp. 100812-100823, 2022. (SCI/EI, **IF=3.9**)
+1. **R. Zhou**, C. Hu, B. Hou, and Y. Zhu, "Comparative Study of Performance-Oriented Feedforward Compensation Strategies for Precision Mechatronic Motion Systems," <u>*IEEE Access*</u>, vol. 10, pp. 100812-100823, 2022. (SCI/EI, **IF=3.9**)
 
-1. Z. Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Real-Time Iterative Compensation Based Contouring Control Method for Polar Coordinate Motion Systems," *IEEE/ASME Trans. Mechatron.*, vol. 27, no. 5, pp. 3517-3526, Oct. 2022. (SCI/EI, **IF=6.4**)
+1. Z. Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Real-Time Iterative Compensation Based Contouring Control Method for Polar Coordinate Motion Systems," <u>*IEEE/ASME Trans. Mechatron.*</u>, vol. 27, no. 5, pp. 3517-3526, Oct. 2022. (SCI/EI, **IF=6.4**)
 
-1. Z. Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Online Iterative Learning Compensation Method Based on Model Prediction for Trajectory Tracking Control Systems," *IEEE Trans. Ind. Inform.*, vol. 18, no. 1, pp. 415-425, Jan. 2022. (SCI/EI, **IF=12.3**)
+1. Z. Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Online Iterative Learning Compensation Method Based on Model Prediction for Trajectory Tracking Control Systems," <u>*IEEE Trans. Ind. Inform.*</u>, vol. 18, no. 1, pp. 415-425, Jan. 2022. (SCI/EI, **IF=12.3**)
 
-1. S. Wu, C. Hu, Z. Zhao, **R. Zhou**, and Y. Zhu, "A Novel Flux Estimator Using $\alpha$-$\beta$ Orthogonality Drift Elimination for High Performance Full-Speed-Range Sensorless Control," in *IEEE/ASME Int. Conf. Adv. Intell. Mechatron. (AIM)*, Sapporo, Japan, Jul. 2022, pp. 1315-1320. (EI)
+1. S. Wu, C. Hu, Z. Zhao, **R. Zhou**, and Y. Zhu, "A Novel Flux Estimator Using $\alpha$-$\beta$ Orthogonality Drift Elimination for High Performance Full-Speed-Range Sensorless Control," in <u>*IEEE/ASME Int. Conf. Adv. Intell. Mechatron. (AIM)*</u>, Sapporo, Japan, Jul. 2022, pp. 1315-1320. (EI)
 
-1. Z.Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Precision RIC Contouring Control Method for Polar Coordinate Motion Systems," in *IEEE Int. Conf. Real-Time Comput. Robot. (RCAR)*, Xining, China, Jul. 2021, pp. 744-749. (EI)
+1. Z.Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Precision RIC Contouring Control Method for Polar Coordinate Motion Systems," in <u>*IEEE Int. Conf. Real-Time Comput. Robot. (RCAR)*</u>, Xining, China, Jul. 2021, pp. 744-749. (EI)
 
-1. **R. Zhou**, C. Hu, Y. Zhu, and M. Zhang, "Model Prediction based Online Feedforward Compensation Control of Maglev Planar Motor with Comparative Investigation," in *IEEE Int. Conf. Mechatron. (ICM)*, Kashiwa, Japan, Mar. 2021, pp. 1-6. (EI, **Oral Report**)
+1. **R. Zhou**, C. Hu, Y. Zhu, and M. Zhang, "Model Prediction based Online Feedforward Compensation Control of Maglev Planar Motor with Comparative Investigation," in <u>*IEEE Int. Conf. Mechatron. (ICM)*</u>, Kashiwa, Japan, Mar. 2021, pp. 1-6. (EI, **Oral Report**)
 
 Honors and Awards
 =====
