@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <p style="width:100%;">
-  <img src="/images/editing-talk.png" align="right" width="30%" alt="Life" hspace="8">
-  CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局
+  <img src="/images/Ran-Life.jpg" align="right" width="45%" alt="Life Photo of Ran" hspace="8">
+  This is a brief introduction of Ran Zhou.
 </p>
 
 
