@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="http://academicpages.github.io/files/paper1.pdf" style="width:80%; height:500px;" frameborder="0"></iframe>
+[View PDF](/files/paper1.pdf)
+
+
+<iframe src="https://zhou-r16.github.io/files/paper1.pdf" style="width:80%; height:500px;" frameborder="0"></iframe>
 
 
 <!-- Education
