@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," *IEEE Trans. Ind. Inform.*, 2023, DOI: 10.1109/TII.2023.3331075. (SCI/EI, **IF=12.3**)
 
