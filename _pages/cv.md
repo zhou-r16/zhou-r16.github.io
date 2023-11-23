@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="files/CV_ZR.pdf" style="width:80%; height:500px;" frameborder="0"></iframe>
+<iframe src="http://academicpages.github.io/files/paper1.pdf" style="width:80%; height:500px;" frameborder="0"></iframe>
 
 
 <!-- Education
