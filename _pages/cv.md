@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="zhou-r16.github.io/files/CV_ZR.pdf" style="width:80%; height:500px;" frameborder="0"></iframe>
+<iframe src="files/CV_ZR.pdf" style="width:80%; height:500px;" frameborder="0"></iframe>
 
 
 <!-- Education
