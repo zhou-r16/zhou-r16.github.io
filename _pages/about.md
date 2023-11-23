@@ -67,7 +67,7 @@ Research Interests
 
 Selected Publications
 =====
-1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," *IEEE Trans. Ind. Inform.*, 2023, DOI: 10.1109/TII.2023.3331075. (SCI/EI, **IF=12.3**)
+1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," [*IEEE Trans. Ind. Inform.*](https://doi.org/10.1109/TII.2023.3331075), 2023, DOI: 10.1109/TII.2023.3331075. (SCI/EI, **IF=12.3**)
 
 1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/9735319), vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=12.3**, **ESI Highly Cited Paper**)
 
