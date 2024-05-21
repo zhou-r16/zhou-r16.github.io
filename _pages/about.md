@@ -67,6 +67,8 @@ Research Interests
 
 Selected Publications
 =====
+1. **R. Zhou**, C. Hu, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Control Using Plant-Injection Feedforward Architecture with Application to Ultraprecision Wafer Stages," *IEEE Trans. Ind. Inform.*, accepted, 2024. (SCI/EI, **IF=12.3**)
+
 1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10350005), vol. 20, no. 4, pp. 5609-5621, Apr. 2024. (SCI/EI, **IF=12.3**)
 
 1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/9735319), vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=12.3**, **ESI Highly Cited Paper**)
@@ -82,8 +84,8 @@ Selected Publications
 Honors and Awards
 =====
 - National Scholarship for Postgraduates (Top 2%) - Dec. 2022
-- Second Prize in National College Mechanical Innovation Competetion - Oct. 2020
-- First Prize in Beijing College Mechanical Innovation Competetion - Sep. 2020
+- Second Prize in National College Mechanical Innovation Competition - Oct. 2020
+- First Prize in Beijing College Mechanical Innovation Competition - Sep. 2020
 - Tsinghua Future Scholar Scholarship - Aug. 2020
 - Tsinghua Outstanding Undergraduate Award (Top 2%) - Jun. 2020
 - Beijing Outstanding Undergraduate Award (Top 5%) - Jun. 2020
@@ -100,4 +102,4 @@ Academic Service
 =====
 - Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Industrial Informatics, IEEE Transactions on Industrial Electronics, IEEE/ASME Transactions on Mechatronics
 - Reviewer for Ocean Engineering
-- Reviewer for 2023 Modeling, Estimation and Control Conference (MECC 2023)
+- Reviewer for IEEE/ASME MESA 2024, IFAC MECC 2023
