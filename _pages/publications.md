@@ -27,7 +27,7 @@ Journal Papers
 
 1. Z. Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Online Iterative Learning Compensation Method Based on Model Prediction for Trajectory Tracking Control Systems," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/abstract/document/9444877), vol. 18, no. 1, pp. 415-425, Jan. 2022. (SCI/EI, **IF=12.3**)
 
-1. C. Hu, **R. Zhou**, H. Fu, M. Zhang, and Y. Zhu, "Development Frontier and Future Challenges of Lithography Machines for Integrated Circuit Manufacturing," [*SCIENTIA SINICA Informationis*](https://www.sciengine.com/SSI/doi/10.1360/SSI-2023-0378), vol. 54, no. 1, pp. 130-143, Jan. 2024. [胡楚雄, 周冉, 付宏, 等. 集成电路装备光刻机发展前沿与未来挑战. 中国科学:信息科学, 2024, 54(1): 130-143.]
+1. C. Hu, **R. Zhou**, H. Fu, M. Zhang, and Y. Zhu, "Development Frontier and Future Challenges of Lithography Machines for Integrated Circuit Manufacturing," [*SCIENTIA SINICA Informationis*](https://www.sciengine.com/SSI/doi/10.1360/SSI-2023-0378), vol. 54, no. 1, pp. 130-143, Jan. 2024. [胡楚雄, 周冉, 付宏, 等. 集成电路装备光刻机发展前沿与未来挑战. [*中国科学:信息科学*](https://www.sciengine.com/SSI/doi/10.1360/SSI-2023-0378), 2024, 54(1): 130-143.]
 
 Conference Papers
 -----
