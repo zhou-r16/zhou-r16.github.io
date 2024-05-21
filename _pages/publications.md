@@ -33,7 +33,6 @@ Conference Papers
 -----
 1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in *IEEE Conf. Ind. Electron. Appl. (ICIEA)*, accepted, 2024.
 
-<!-- 1. Z. Jin, **R. Zhou**, T. Ou, C. Hu, and Y. Zhu, "Enhanced Motion Control for Precision/Ultraprecision Motion System: An Advanced LARC Strategy with GRU Neural Network," in *The 2nd Int. Conf. Mech. Syst. Dynam. (ICMSD)*, Beijing, China, Sep. 2023. (EI) -->
 1. S. Wu, C. Hu, Z. Zhao, **R. Zhou**, and Y. Zhu, "A Novel Flux Estimator Using $\alpha$-$\beta$ Orthogonality Drift Elimination for High Performance Full-Speed-Range Sensorless Control," in [*IEEE/ASME Int. Conf. Adv. Intell. Mechatron. (AIM)*](https://ieeexplore.ieee.org/abstract/document/9863297), Sapporo, Japan, Jul. 2022, pp. 1315-1320. (EI)
 
 1. Z.Wang, **R. Zhou**, C. Hu, and Y. Zhu, "Precision RIC Contouring Control Method for Polar Coordinate Motion Systems," in [*IEEE Int. Conf. Real-Time Comput. Robot. (RCAR)*](https://ieeexplore.ieee.org/abstract/document/9517613), Xining, China, Jul. 2021, pp. 744-749. (EI)
