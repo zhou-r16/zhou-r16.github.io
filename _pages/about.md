@@ -67,15 +67,15 @@ Research Interests
 
 Selected Publications
 =====
-1. **R. Zhou**, C. Hu, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Control Using Plant-Injection Feedforward Architecture with Application to Ultraprecision Wafer Stages," *IEEE Trans. Ind. Inform.*, accepted, 2024. (SCI/EI, **IF=12.3**)
+1. **R. Zhou**, C. Hu, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Control Using Plant-Injection Feedforward Architecture with Application to Ultraprecision Wafer Stages," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10594747), 2024, DOI: 10.1109/TII.2024.3413294. (SCI/EI, **IF=11.7**)
 
-1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10350005), vol. 20, no. 4, pp. 5609-5621, Apr. 2024. (SCI/EI, **IF=12.3**)
+1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10350005), vol. 20, no. 4, pp. 5609-5621, Apr. 2024. (SCI/EI, **IF=11.7**)
 
-1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/9735319), vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=12.3**, **ESI Highly Cited Paper**)
+1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/9735319), vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=11.7**, **ESI Highly Cited Paper**)
 
-1. C. Hu, **R. Zhou**, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Framework for Precision Mechatronic Motion Control Systems," [*IEEE/CAA J. Autom. Sinica*](https://ieeexplore.ieee.org/abstract/document/9812529), vol. 9, no. 7, pp. 1218-1232, Jul. 2022. (SCI/EI, **IF=11.8**)
+1. C. Hu, **R. Zhou**, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Framework for Precision Mechatronic Motion Control Systems," [*IEEE/CAA J. Autom. Sinica*](https://ieeexplore.ieee.org/abstract/document/9812529), vol. 9, no. 7, pp. 1218-1232, Jul. 2022. (SCI/EI, **IF=15.3**)
 
-1. **R. Zhou**, C. Hu, B. Hou, and Y. Zhu, "Comparative Study of Performance-Oriented Feedforward Compensation Strategies for Precision Mechatronic Motion Systems," [*IEEE Access*](https://ieeexplore.ieee.org/abstract/document/9893809), vol. 10, pp. 100812-100823, 2022. (SCI/EI, **IF=3.9**)
+1. **R. Zhou**, C. Hu, B. Hou, and Y. Zhu, "Comparative Study of Performance-Oriented Feedforward Compensation Strategies for Precision Mechatronic Motion Systems," [*IEEE Access*](https://ieeexplore.ieee.org/abstract/document/9893809), vol. 10, pp. 100812-100823, 2022. (SCI/EI, **IF=3.4**)
 
 1. **R. Zhou**, C. Hu, Y. Zhu, and M. Zhang, "Model Prediction based Online Feedforward Compensation Control of Maglev Planar Motor with Comparative Investigation," in [*IEEE Int. Conf. Mechatron. (ICM)*](https://ieeexplore.ieee.org/abstract/document/9385613), Kashiwa, Japan, Mar. 2021, pp. 1-6. (EI, **Oral Report**)
 
