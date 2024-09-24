@@ -31,9 +31,9 @@ Journal Papers
 
 Conference Papers
 -----
-1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in *IEEE Conf. Ind. Electron. Appl. (ICIEA)*, accepted, 2024. (EI, **Best Paper Award**)
+1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in [*IEEE Conf. Ind. Electron. Appl. (ICIEA)*](https://ieeexplore.ieee.org/document/10665218), Kristiansand, Norway, Aug. 2024, pp. 1-6. (EI, **Best Paper Award**)
 
-1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Ultraprecision Contouring Control with Enhanced Accuracy and Robustness: An Online Prediction Based Real-Time Iterative Compensation Method," in *IEEE/ASME Int. Conf. Mechatron. Embed. Syst. Appl. (MESA)*, accepted, 2024.
+1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Ultraprecision Contouring Control with Enhanced Accuracy and Robustness: An Online Prediction Based Real-Time Iterative Compensation Method," in *IEEE/ASME Int. Conf. Mechatron. Embed. Syst. Appl. (MESA)*, Genova, Italy, Sep. 2024. (EI, **Oral Report**)
 
 1. S. Wu, C. Hu, Z. Zhao, **R. Zhou**, and Y. Zhu, "A Novel Flux Estimator Using $\alpha$-$\beta$ Orthogonality Drift Elimination for High Performance Full-Speed-Range Sensorless Control," in [*IEEE/ASME Int. Conf. Adv. Intell. Mechatron. (AIM)*](https://ieeexplore.ieee.org/abstract/document/9863297), Sapporo, Japan, Jul. 2022, pp. 1315-1320. (EI)
 

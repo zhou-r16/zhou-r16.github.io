@@ -77,7 +77,9 @@ Selected Publications
 
 1. **R. Zhou**, C. Hu, B. Hou, and Y. Zhu, "Comparative Study of Performance-Oriented Feedforward Compensation Strategies for Precision Mechatronic Motion Systems," [*IEEE Access*](https://ieeexplore.ieee.org/abstract/document/9893809), vol. 10, pp. 100812-100823, 2022. (SCI/EI, **IF=3.4**)
 
-1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in *IEEE Conf. Ind. Electron. Appl. (ICIEA)*, 2024. (EI, **Best Paper Award**)
+1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in [*IEEE Conf. Ind. Electron. Appl. (ICIEA)*](https://ieeexplore.ieee.org/document/10665218), Kristiansand, Norway, Aug. 2024, pp. 1-6. (EI, **Best Paper Award**)
+
+1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Ultraprecision Contouring Control with Enhanced Accuracy and Robustness: An Online Prediction Based Real-Time Iterative Compensation Method," in *IEEE/ASME Int. Conf. Mechatron. Embed. Syst. Appl. (MESA)*, Genova, Italy, Sep. 2024. (EI, **Oral Report**)
 
 1. **R. Zhou**, C. Hu, Y. Zhu, and M. Zhang, "Model Prediction based Online Feedforward Compensation Control of Maglev Planar Motor with Comparative Investigation," in [*IEEE Int. Conf. Mechatron. (ICM)*](https://ieeexplore.ieee.org/abstract/document/9385613), Kashiwa, Japan, Mar. 2021, pp. 1-6. (EI, **Oral Report**)
 
@@ -86,13 +88,15 @@ Selected Publications
 Honors and Awards
 =====
 - **Best Paper Award** in IEEE ICIEA 2024 - Aug. 2024
-- **National Scholarship** for Postgraduates (Top 2%) - Dec. 2022
+- **National Scholarship** for Postgraduates - Sep. 2024
+- **National Scholarship** for Postgraduates - Dec. 2022
+- **Students of the Year 2023** in Tsinghua University (10 winners per year) - Dec. 2023
 - Second Prize in National College Mechanical Innovation Competition - Oct. 2020
 - First Prize in Beijing College Mechanical Innovation Competition - Sep. 2020
 - Tsinghua Future Scholar Scholarship - Aug. 2020
 - Tsinghua Outstanding Undergraduate Award (Top 2%) - Jun. 2020
 - Beijing Outstanding Undergraduate Award (Top 5%) - Jun. 2020
-- **National Scholarship** for Undergraduates (Top 2%) - Dec. 2019
+- **National Scholarship** for Undergraduates - Dec. 2019
 - **Tsinghua Top Grade Scholarship** for Undergraduates (**The highest student honor** with 10 winners per year in Tsinghua University) - Dec. 2019
 - Tsinghua Comprehensive Excellence Award (Top 7%) - Dec. 2019
 - Tsinghua Jiang Nanxiang Scholarship - Dec. 2018
