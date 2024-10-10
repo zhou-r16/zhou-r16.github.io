@@ -13,7 +13,7 @@ author_profile: true
 
 Journal Papers
 -----
-1. **R. Zhou**, C. Hu, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Control Using Plant-Injection Feedforward Architecture with Application to Ultraprecision Wafer Stages," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10594747), 2024, DOI: 10.1109/TII.2024.3413294. (SCI/EI, **IF=11.7**)
+1. **R. Zhou**, C. Hu, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Control Using Plant-Injection Feedforward Architecture with Application to Ultraprecision Wafer Stages," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10594747), vol. 20, no. 10, pp. 11708-11719, Oct. 2024. (SCI/EI, **IF=11.7**)
 
 1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10350005), vol. 20, no. 4, pp. 5609-5621, Apr. 2024. (SCI/EI, **IF=11.7**)
 
@@ -31,9 +31,9 @@ Journal Papers
 
 Conference Papers
 -----
-1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in [*IEEE Conf. Ind. Electron. Appl. (ICIEA)*](https://ieeexplore.ieee.org/document/10665218), Kristiansand, Norway, Aug. 2024, pp. 1-6. (EI, **Best Paper Award**)
+1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in [*IEEE Conf. Ind. Electron. Appl. (ICIEA)*](https://ieeexplore.ieee.org/document/10665218), Kristiansand, Norway, Aug. 2024, pp. 1-8. (EI, **Best Paper Award**)
 
-1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Ultraprecision Contouring Control with Enhanced Accuracy and Robustness: An Online Prediction Based Real-Time Iterative Compensation Method," in *IEEE/ASME Int. Conf. Mechatron. Embed. Syst. Appl. (MESA)*, Genova, Italy, Sep. 2024. (EI, **Oral Report**)
+1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Ultraprecision Contouring Control with Enhanced Accuracy and Robustness: An Online Prediction Based Real-Time Iterative Compensation Method," in [*IEEE/ASME Int. Conf. Mechatron. Embed. Syst. Appl. (MESA)*](https://ieeexplore.ieee.org/document/10704829), Genova, Italy, Sep. 2024, pp. 1-7. (EI, **Oral Report**)
 
 1. S. Wu, C. Hu, Z. Zhao, **R. Zhou**, and Y. Zhu, "A Novel Flux Estimator Using $\alpha$-$\beta$ Orthogonality Drift Elimination for High Performance Full-Speed-Range Sensorless Control," in [*IEEE/ASME Int. Conf. Adv. Intell. Mechatron. (AIM)*](https://ieeexplore.ieee.org/abstract/document/9863297), Sapporo, Japan, Jul. 2022, pp. 1315-1320. (EI)
 

@@ -69,7 +69,7 @@ Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision M
 - Proposes a novel adaptive real-time iterative compensation framework for the simutaneous achievement of extreme tracking accuracy, great trajectory generalization, strong disturbance rejection ability, and effective parametric adaptivity.
 - Synthesized the control actions of adaptive feedforward term, nonlinear robust feedback term, and online optimal trajectory compensation term in a unified control framework.
 - Reached the accuracy limit previously attainable only by ILC through repetitive learning in single-axis/multi-axis motion tasks. Achieved consistent 7-nm-level accuracy across various contouring tasks, even under varying contours, payloads, and disturbances.
-- Related publication: [*IEEE Conf. Ind. Electron. Appl. (ICIEA)*](https://ieeexplore.ieee.org/document/10665218), *IEEE/ASME Int. Conf. Mechatron. Embed. Syst. Appl. (MESA)*
+- Related publication: [*IEEE Conf. Ind. Electron. Appl. (ICIEA)*](https://ieeexplore.ieee.org/document/10665218), [*IEEE/ASME Int. Conf. Mechatron. Embed. Syst. Appl. (MESA)*](https://ieeexplore.ieee.org/document/10704829)
 
 Ultra-Precision Drive and Control of Long-Stroke Magnetically Levitated Planar Motor
 -----
