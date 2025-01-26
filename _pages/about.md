@@ -67,6 +67,8 @@ Research Interests
 
 Selected Publications
 =====
+1. **R. Zhou**, Z. Wang, J. Lu, Y. Zhu, and C. Hu, "Ultraprecision Multi-Axis CARIC Control Strategy With Application to a Nano-Accuracy Air-Bearing Motion Stage," [*ISA Trans.*](https://www.sciencedirect.com/science/article/pii/S0019057825000229), 2025, DOI: 10.1016/j.isatra.2025.01.020. (SCI/EI, **IF=6.3**)
+
 1. **R. Zhou**, C. Hu, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Control Using Plant-Injection Feedforward Architecture with Application to Ultraprecision Wafer Stages," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10594747), vol. 20, no. 10, pp. 11708-11719, Oct. 2024. (SCI/EI, **IF=11.7**)
 
 1. **R. Zhou**, C. Hu, T. Ou, Z. Wang, and Y. Zhu, "Intelligent GRU-RIC Feedforward Compensation Control Method with Application to an Ultraprecision Motion Stage," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/10350005), vol. 20, no. 4, pp. 5609-5621, Apr. 2024. (SCI/EI, **IF=11.7**)
@@ -74,8 +76,6 @@ Selected Publications
 1. **R. Zhou**, C. Hu, Z.Wang, S. He, and Y. Zhu, "Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems," [*IEEE Trans. Ind. Inform.*](https://ieeexplore.ieee.org/document/9735319), vol. 19, no. 2, pp. 1332-1342, Feb. 2023. (SCI/EI, **IF=11.7**, **ESI Highly Cited Paper**)
 
 1. C. Hu, **R. Zhou**, Z. Wang, Y. Zhu, and M. Tomizuka, "Real-Time Iterative Compensation Framework for Precision Mechatronic Motion Control Systems," [*IEEE/CAA J. Autom. Sinica*](https://ieeexplore.ieee.org/abstract/document/9812529), vol. 9, no. 7, pp. 1218-1232, Jul. 2022. (SCI/EI, **IF=15.3**)
-
-1. **R. Zhou**, C. Hu, B. Hou, and Y. Zhu, "Comparative Study of Performance-Oriented Feedforward Compensation Strategies for Precision Mechatronic Motion Systems," [*IEEE Access*](https://ieeexplore.ieee.org/abstract/document/9893809), vol. 10, pp. 100812-100823, 2022. (SCI/EI, **IF=3.4**)
 
 1. **R. Zhou**, C. Hu, Z. Wang, and Y. Zhu, "Adaptive Real-Time Iterative Compensation Control Framework for Ultraprecision Motion Tasks," in [*IEEE Conf. Ind. Electron. Appl. (ICIEA)*](https://ieeexplore.ieee.org/document/10665218), Kristiansand, Norway, Aug. 2024, pp. 1-8. (EI, **Best Paper Award**)
 
@@ -88,8 +88,9 @@ Selected Publications
 Honors and Awards
 =====
 - **Best Paper Award** in IEEE ICIEA 2024 - Aug. 2024
-- **National Scholarship** for Postgraduates - Sep. 2024
+- **National Scholarship** for Postgraduates - Dec. 2024
 - **National Scholarship** for Postgraduates - Dec. 2022
+- **Tsinghua Top Grade Scholarship** for Postgraduates (**The highest student honor** with 10 winners per year in Tsinghua University) - Dec. 2024
 - **Students of the Year 2023** in Tsinghua University (10 winners per year) - Dec. 2023
 - Second Prize in National College Mechanical Innovation Competition - Oct. 2020
 - First Prize in Beijing College Mechanical Innovation Competition - Sep. 2020
