@@ -12,7 +12,7 @@ redirect_from:
   <img src="/images/Ran-Life.jpg" align="right" width="35%" alt="Life Photo of Ran" hspace="20" vspace="10">
 </p>
 
-Hello, I'm Ran Zhou. Since 2020, I have been pursuing a Ph.D. in Mechanical Engineering at the Institute of Mechatronic Engineering, Department of Mechanical Engineering, Tsinghua University, under the supervision of [Prof. Chuxiong Hu](https://www.me.tsinghua.edu.cn/en/info/1049/1315.htm). From Oct. 2023 to Dec. 2023, I was also a visiting student researcher at the [Mechanical Systems Control Lab](https://msc.berkeley.edu/) in the Department of Mechanical Engineering at UC Berkeley, supervised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). Prior to this, I graduated with a B.E. in Mechanical Engineering from Tsinghua University in 2020.
+Hello, I'm Ran Zhou. Since 2020, I have been pursuing a Ph.D. in Mechanical Engineering at the Institute of Mechatronic Engineering, Department of Mechanical Engineering, Tsinghua University, under the supervision of [Prof. Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm). From Oct. 2023 to Dec. 2023, I was also a visiting student researcher at the [Mechanical Systems Control Lab](https://msc.berkeley.edu/) in the Department of Mechanical Engineering at UC Berkeley, supervised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). Prior to this, I graduated with a B.E. in Mechanical Engineering from Tsinghua University in 2020.
 
 My research primarily focuses on precision/ultraprecision motion control, including intelligent feedforward control, predictive control, and neural network control with applications to practical precision/ultraprecision mechatronic systems.
 
